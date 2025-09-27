@@ -9,7 +9,6 @@ package com.mycompany.lab4;
  * @author ICT
  */
 public class gvthem {
-
     public static void main(String[] args) {
         System.out.println("Hello teo!");
     }
